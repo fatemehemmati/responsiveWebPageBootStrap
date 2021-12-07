@@ -1,0 +1,25 @@
+ .img {
+        width: 200px;
+        height: 230px;
+      }
+     
+      .button-img {
+        width: 20px;
+        height: 20px;
+      }
+      .img-top{
+   
+        background-image: url('images\\firstimg.jpg');
+        /* background-position: center; */
+        background-repeat: no-repeat;
+         width: 100%;
+         background-size: 100% 500px;
+         min-height: 500px;
+      text-align: center;
+      }
+    .h1{
+      font-size: medium;
+    }
+    .mr-4{
+      width:800px;
+    }
